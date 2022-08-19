@@ -1,0 +1,118 @@
+
+body  {
+    background-image: url(/images/Bugati1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: auto;
+}
+/* Navbar-Component */
+.nav-link.active {
+    margin-top: 8px;
+    font-size: 0.8em;
+    color: #f1eaea;
+    font-weight: 500;
+}
+.under {
+  width: 37%;
+  height: 0;
+  border: 2px solid red;
+  /* margin-left: 1px; */
+  border-radius: 3px;
+  display:inline-block;
+}
+.color-me {
+    margin-top: 8px;
+    font-size: 0.8em;
+    color: #f1eaea;
+    font-weight: 400;
+}
+
+.button {
+    font-weight: 600;
+    font-size: 0.8rem;
+    border-color: white;
+    border-width: 3px;
+    border-radius: 25px;
+    padding: 10px 30px;
+    color: white;
+    background-color: red;
+    margin-right: 45px;
+}
+/* Bugatti Text Components */
+.bugatti h1 {
+    color: #f1eaea;
+    margin-top: 0.55em;
+    margin-left: 0.55em;
+    font-weight: 700;
+    font-size: 5.8em;
+    letter-spacing: 3px;
+}
+.chiron {
+    margin-top: 2em;
+    margin-left: 2.45em;
+}
+.lines {
+    color: #f1eaea;
+    font-weight: 400;
+    margin-left: 3em;
+    margin-top: 0.5em;
+    font-size: 18px;
+}
+.lines i {
+    margin: 7px 5px;
+}
+.under-line {
+  width: 40px;
+  height: 0;
+  border: 0.5px solid  white;
+  margin-left: 7.5em;
+  display:inline-block;
+  margin-bottom: 25px;
+}
+
+/* Footer COmponent */
+.bugati-ch {
+    margin-left: 55px;
+    width: 180px;
+    border-radius: 7px;
+    height: 90px;
+}
+.row-item {
+    /* margin-top: 1em; */
+    text-align: center;
+}
+.row-item h5 {
+    color: #f1eaea;
+    font-size: 18px;
+    font-weight: 500;
+    padding-top: 2em;
+}
+.row-item p {
+    color: #c9c6c6;
+    font-weight: 400;
+    font-size: 12px;
+}
+.border-line {
+    float: right;
+    margin-top: 2em;
+    margin-left: 1em;
+}
+
+/* Social Icon Components */
+.social-icon {
+    
+    margin-top: 4em;
+    margin-left: 95.85%;
+}
+.social-link {
+    margin-top: 0.5em;
+}
+ /* slider */
+.slider {
+  width: 50%;
+  height: 0;
+  border: 0.5px solid  white;
+  margin-left: 2em;
+  display:inline-block;
+  /* margin-bottom: 25px; */
+}
